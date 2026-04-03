@@ -76,7 +76,7 @@
         }
       }
     },
-    "/summary": {
+    "/summary/dashboard": {
       "get": {
         "summary": "Get financial summary data",
         "tags": ["Dashboard"],
