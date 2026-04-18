@@ -1,4 +1,4 @@
-# Zorvyn Finance Dashboard Backend
+# Finance Dashboard Backend
 
 ## Overview
 A Node.js/Express.js backend for a Finance Dashboard system with role-based access control, data modeling, and summary-level analytics. Built with PostgreSQL and Prisma ORM.
